@@ -1,0 +1,14 @@
+{
+  "name": "gs-v4-i18n",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "import": "node imp.js",
+    "export": "node exp.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "googleapis": "^105.0.0",
+    "unflatten": "^1.0.4"
+  }
+}
